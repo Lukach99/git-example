@@ -1,1 +1,3 @@
-gfgdf
+ispravak teksta
+nova linija
+blabla
